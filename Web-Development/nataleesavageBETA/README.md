@@ -19,7 +19,8 @@ It's essential to note that the files included in this repository represent only
 - Comprehensive testing.
 - Feature updates and refinements.
 - Full-scale responsive design implementation.
-
+- Code cleanup and optimization.
+  
 This beta version sets the foundation for the upcoming development milestones. There is still a significant amount of work to be done. In the meantime, you can find a demo video where I host the site locally, showcasing the current status and functionalities of the site. This will provide a firsthand view of its progress and the direction the site is heading in.
 
 Thank you for taking the time to review this project!
