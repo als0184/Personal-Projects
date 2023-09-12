@@ -1,6 +1,6 @@
 ---
 # Hotkey Scripts using AutoHotKey
-Welcome to my collection of hotkey scripts! Intended for convenience, these tools help to streamline my daily tasks.
+Welcome to my collection of hotkey scripts! Intended for convenience, these tools help to streamline my daily tasks, and act as a fun side project.
 
 ---
 # Overview:
