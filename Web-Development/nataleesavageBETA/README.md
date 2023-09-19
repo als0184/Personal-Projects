@@ -1,6 +1,6 @@
 # Natalee Savage Personal Website - Beta Version
 
-Welcome to the repository of the beta version of Natalee Savage's personal website. This project marked both my journey into the realm of web development and the creation of a comprehensive website for Natalee.
+Welcome to the repository of the beta version of Natalee Savage's personal website. This project marked both my journey into the realm of web development and the creation of a comprehensive website for Natalee Savage.
 
 ## Overview
 
