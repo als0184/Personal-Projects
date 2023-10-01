@@ -1,6 +1,0 @@
-API_KEY = 'ivUcLtlXQJTKA438BP9RF6vKcwuNePbI'
-sid = 'ACdf11606b1fdf3648bda82f5d68f25579'
-token = 'b7a57c8004ba457d6db2b22393be5923'
-from_sms = '+18447525778'
-to_sms = '+13343158529'
-to_sms2 = '+12565073675'
