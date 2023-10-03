@@ -20,7 +20,6 @@ NiftyFind fetches the following product details:
 <p align="center">
   <img src="images/NiftyFind_Example.png" alt="Screenshot Description">
 </p>
-![Screenshot Description](images/NiftyFind_Example.png)
 
 ## Usage
 
