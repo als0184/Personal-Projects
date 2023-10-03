@@ -10,7 +10,7 @@ async function searchProducts() {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': 'b50b583a14mshdc111ee11f0a157p154633jsncab987d7c92f',
+            'X-RapidAPI-Key': 'YOUR_API_KEY_HERE',
             'X-RapidAPI-Host': 'real-time-product-search.p.rapidapi.com'
         }
     };
