@@ -1,0 +1,14 @@
+{
+    "name": "NiftyFind",
+    "version": "1.0.0",
+    "description": "A nifty tool to quickly search and find products.",
+    "manifest_version": 3,
+    "author": "Austin Lee Smith",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "NiftyFind"
+    },
+    "icons": {
+        "16": "images/bag.png"
+    }
+}
