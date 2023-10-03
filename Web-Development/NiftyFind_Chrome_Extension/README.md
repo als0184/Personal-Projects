@@ -16,6 +16,10 @@ NiftyFind fetches the following product details:
 - **Product Page**: Direct link to the product page for detailed information or purchase.
 - **Offers Page**: Link to check out any ongoing offers or deals for the product from various retailers.
 - **Typical Price Range**: A range to give users an idea of the product's cost.
+
+<p align="center">
+  <img src="images/NiftyFind_Example.png" alt="Screenshot Description">
+</p>
 ![Screenshot Description](images/NiftyFind_Example.png)
 
 ## Usage
